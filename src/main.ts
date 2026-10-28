@@ -1,2 +1,3 @@
-import('./bootstrap')
-	.catch(err => console.error(err));
+// @ts-ignore
+import 'zone.js';
+import('./bootstrap').catch((err) => console.error(err));
