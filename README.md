@@ -1,6 +1,6 @@
 # UiShell
 ```bash
-ng add @angular-architects/module-federation --project ui-download --port 12102 --type remote
+ng add @angular-architects/module-federation --project shell --port 13000 --type host
 ```
 
 # Sistema de lectura y exportación de Documentos mediante IA
